@@ -13,4 +13,11 @@ function emojiLoop (array) {
   }
 }
 
+function emojiRandom() {
+  for(let i=0; i<11; i++) {
+    console.log(emoji.random());
+  }
+}
+
 emojiLoop(emojiArray);
+emojiRandom();
