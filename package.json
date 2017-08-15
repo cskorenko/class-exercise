@@ -11,5 +11,8 @@
     "url": "class-exercise"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-emoji": "^1.8.1"
+  }
 }
